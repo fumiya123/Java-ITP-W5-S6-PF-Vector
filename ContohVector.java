@@ -17,7 +17,7 @@ public class ContohVector {
             System.out.println(name); // print nama
         }
 
-        // Menambahkan nama baru ke posisi ke 2
+        // Menambahkan nama baru pada posisi ke 2
         names.add(2, "Rahmawan");
         System.out.println("\nSetelah menambahkan 'Rahmawan' pada indeks 2:");
         for (String name : names) {
